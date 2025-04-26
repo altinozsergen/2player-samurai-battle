@@ -1,0 +1,3 @@
+C:/Users/canavarPC/CLionProjects/2-player-samurai-battle/cmake-build-debug/CMakeFiles/2-player-samurai-battle.dir
+C:/Users/canavarPC/CLionProjects/2-player-samurai-battle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/canavarPC/CLionProjects/2-player-samurai-battle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
