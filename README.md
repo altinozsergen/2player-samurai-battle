@@ -51,7 +51,7 @@ Oyuncuların sağlık durumları ekranın üst kısmında gösterilir:
 
 ---
 ![OYUN](oyun-resimleri/3oynanis.PNG)
-## 📷 Oyun Görseli
+## 📷 Bu savaşta kazanan sen ol! 🥷🔥
 
 ![2 Player Samurai Battle](oyun-resimleri/Kazandi.PNG)
 
