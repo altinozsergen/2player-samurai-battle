@@ -17,6 +17,7 @@ Oyuncuların sağlık durumları ekranın üst kısmında gösterilir:
 - **2. Oyuncu (Player 2):** Mavi sağlık çubuğu ile belirtilmiştir.
 
 ---
+![OYUN](oyun-resimleri/Playing.PNG)
 
 ## 🕹️ Oyun Kontrolleri
 
@@ -34,7 +35,8 @@ Oyuncuların sağlık durumları ekranın üst kısmında gösterilir:
 - **O:** Savunma (Bekleme süresi yukarıdaki yeşil çubukla gösterilir)
 
 ---
-
+![OYUN](oyun-resimleri/2vurus.PNG)
+![OYUN](oyun-resimleri/vurus1.PNG)
 ## ✨ Özellikler
 
 - 🧑‍🤝‍🧑 İki kişilik yerel oyun (aynı klavyede oynanır)
@@ -47,9 +49,9 @@ Oyuncuların sağlık durumları ekranın üst kısmında gösterilir:
 - 🎬 Ana menü ve oyun başlatma ses efektleri
 
 ---
-
+![OYUN](oyun-resimleri/3oynanis.PNG)
 ## 📷 Oyun Görseli
 
-![2 Player Samurai Battle](oyun-resimleri/Kazandi.png)
+![2 Player Samurai Battle](oyun-resimleri/Kazandi.PNG)
 
 ---
