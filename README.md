@@ -1,4 +1,4 @@
-# 🥷 2 Player Samurai Battle
+# 🥷 2 Player Samurai Battle         (SERGEN ALTINÖZ 24253601)
 
 ![ANA MENU](oyun-resimleri/AnaMenu.PNG)
 
@@ -37,6 +37,7 @@ Oyuncuların sağlık durumları ekranın üst kısmında gösterilir:
 ---
 ![OYUN](oyun-resimleri/2vurus.PNG)
 ![OYUN](oyun-resimleri/vurus1.PNG)
+![OYUN](oyun-resimleri/savunma.PNG)
 ## ✨ Özellikler
 
 - 🧑‍🤝‍🧑 İki kişilik yerel oyun (aynı klavyede oynanır)
