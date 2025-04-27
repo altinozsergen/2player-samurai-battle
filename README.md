@@ -1,5 +1,7 @@
 # 🥷 2 Player Samurai Battle
 
+![ANA MENU](oyun-resimleri/AnaMenu.PNG)
+
 ## 🎮 Oyun Hakkında
 
 **2 Player Samurai Battle**, 2 boyutlu bir dövüş oyunudur ve aynı klavye üzerinden iki kişi birlikte oynanabilir.  
