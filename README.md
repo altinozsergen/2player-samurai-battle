@@ -4,6 +4,7 @@
 
 ## 🎮 Oyun Hakkında
 👉 Alternatif olarak: [Oyunu Tanıtan Videoyu Buradan İzleyebilirsin! 🎥](https://youtu.be/5-tC_zgC3Do)
+
 **2 Player Samurai Battle**, 2 boyutlu bir dövüş oyunudur ve aynı klavye üzerinden iki kişi birlikte oynanabilir.  
 Oyunda heyecanı artırmak için enerjik bir arka plan müziği, profesyonel ses efektleri ve şık bir ana menü bulunmaktadır.  
 Dövüş başladığında "Hadi Başlayalım!" şeklinde bir ses efekti ile oyunculara atmosfer sağlanır.
