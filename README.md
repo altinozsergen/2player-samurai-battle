@@ -48,6 +48,6 @@ Oyuncuların sağlık durumları ekranın üst kısmında gösterilir:
 
 ## 📷 Oyun Görseli
 
-![2 Player Samurai Battle](resim/yolu/oyun_resmi.png)
+![2 Player Samurai Battle](oyun-resimleri/Kazandi.png)
 
 ---
