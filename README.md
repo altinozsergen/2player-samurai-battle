@@ -9,6 +9,7 @@
 
 Bu proje C++ ile geliştirildi ve grafik/müzik altyapısı için raylib kullanıldı. Kod yazımı ve derleme süreçleri CLion IDE üzerinde yürütülmüştür.
 
+##
 
 **2 Player Samurai Battle**, 2 boyutlu bir dövüş oyunudur ve aynı klavye üzerinden iki kişi birlikte oynanabilir.  
 Oyunda heyecanı artırmak için enerjik bir arka plan müziği, profesyonel ses efektleri ve şık bir ana menü bulunmaktadır.  
