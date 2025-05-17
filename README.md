@@ -3,8 +3,8 @@
 ![ANA MENU](oyun-resimleri/AnaMenu.PNG)
 
 ## 🎮 Oyun Hakkında
-👉 Alternatif olarak: [Oyunu Tanıtan Videoyu Buradan İzleyebilirsin! 🎥](https://youtu.be/5-tC_zgC3Do)
-
+👉 Alternatif olarak: [Oyunun Oynanışını Gösteren Videoyu Buradan İzleyebilirsin! 🎥](https://youtu.be/5-tC_zgC3Do)
+👉 Alternatif olarak: [Oyunun Kaynak Kodlarını Tanıtan Videoyu Buradan İzleyebilirsin! 🎥](https://youtu.be/2GPv98qP738)
 ## 🛠️ Geliştirme Ortamı
 
 Bu proje C++ ile geliştirildi ve grafik/müzik altyapısı için raylib kullanıldı. Kod yazımı ve derleme süreçleri CLion IDE üzerinde yürütülmüştür.
