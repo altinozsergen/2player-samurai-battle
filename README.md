@@ -4,6 +4,7 @@
 
 ## 🎮 Oyun Hakkında
 👉 Alternatif olarak: [Oyunun Oynanışını Gösteren Videoyu Buradan İzleyebilirsin! 🎥](https://youtu.be/5-tC_zgC3Do)
+##
 👉 Alternatif olarak: [Oyunun Kaynak Kodlarını Tanıtan Videoyu Buradan İzleyebilirsin! 🎥](https://youtu.be/2GPv98qP738)
 ## 🛠️ Geliştirme Ortamı
 
